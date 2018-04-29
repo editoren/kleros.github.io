@@ -22,7 +22,7 @@
   "Header.onePager": "One Pager",
   "Header.letsConnect": "Let's connect.",
 
-  "CountDown.title": "Token sale starts on May 15th, 2018.",
+  "CountDown.title": "2018年5月15日起出售代币",
   "CountDown.signUpForUpdates": "Subscribe",
 
   "Challenge.title": "The Challenge",
@@ -104,24 +104,24 @@
   "Media.date1": "January 23, 2018",
   "Media.readMore": "Read more",
 
-  "Footer.signUp": "Sign Up to Receive Our Latest Updates",
+  "Footer.signUp": "注册获取最新信息",
   "Footer.quote":
-    "“Whoever controls the courts, controls the state”. Aristotle.",
+    "“Whoever controls the courts, controls the state”.亚里士多德",
   "Footer.signUpButton": "Sign Up",
   "Footer.privacy":
-    "We value your privacy and will never share your email with third parties.",
-  "Footer.findOutMore": "Find out more.",
+    "我们珍视您的隐私，绝不与第三方共享您的邮件",
+  "Footer.findOutMore": "查找更多",
   "Footer.FAQ": "FAQ",
   "Footer.github": "Github",
   "Footer.telegram": "Telegram",
   "Footer.letsConnect": "Let's connect.",
 
   "Clock.day": "DAY",
-  "Clock.days": "DAYS",
+  "Clock.days": "剩余天数",
   "Clock.hour": "HOUR",
-  "Clock.hours": "HOURS",
+  "Clock.hours": "剩余小时",
   "Clock.min": "MIN",
-  "Clock.mins": "MINS",
+  "Clock.mins": "剩余分钟",
 
   "TokenSaleHeader.welcome": "Welcome to the",
   "TokenSaleHeader.title": "Kleros Token Sale!",
